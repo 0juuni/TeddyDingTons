@@ -12,3 +12,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![bear_1f43b](https://user-images.githubusercontent.com/122507184/220543875-857cbb3e-ea8e-4bab-82a8-0cc0f0fa7dc9.png)
