@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=145&animation=fadeIn&section=footer&text=🧸🍯🧸DINGTONS&fontAlign=62)
 
-# Hi! 👋 I'm DingTons
+## Hi! 👋 I'm DingTons
 #### Ordinary High school student studying AI&Back-End
 ---------------------------------------------------------------------
 ### Tech to Study
